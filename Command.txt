@@ -1,0 +1,9 @@
+docker ps   
+docker ps --all
+docker run busybox 
+docker run busybox ls
+docker run
+docker pull
+docker create
+docker start
+docker exec 
